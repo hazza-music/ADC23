@@ -4,3 +4,6 @@
 [submodule "Include/GuitarLSTM"]
 	path = Include/GuitarLSTM
 	url = https://github.com/hazza-music/GuitarLSTM
+[submodule "Include/RTNeural"]
+	path = Include/RTNeural
+	url = https://github.com/jatinchowdhury18/RTNeural.git
