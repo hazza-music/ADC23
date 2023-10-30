@@ -1,3 +1,6 @@
 [submodule "Include/cmajor"]
 	path = Include/cmajor
 	url = https://github.com/SoundStacks/cmajor
+[submodule "Include/GuitarLSTM"]
+	path = Include/GuitarLSTM
+	url = https://github.com/hazza-music/GuitarLSTM
